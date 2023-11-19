@@ -1,0 +1,14 @@
+{
+    "url": "https://example.com/api/resource",
+    "auth": "Bearer your_access_token",
+    "host": "example.com",
+    "accept-language": "en-US",
+    "origin": "https://your-website.com",
+    "user-agent": "Your User Agent String",
+    "referee": "https://referrer-site.com",
+    "content-length": 256,
+    "user-data": {
+      "user-id": "12345",
+      "class-id": "67890"
+    }
+  }
