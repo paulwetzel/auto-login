@@ -10,3 +10,8 @@ the date at which booking opens. As mentioned previously, we aim to introduce fu
 manual step will no longer be neccesary.
 """
 
+from main import launch_request
+
+launch_request()
+
+
